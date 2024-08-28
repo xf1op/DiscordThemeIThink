@@ -1,0 +1,75 @@
+/**
+ * @name Flop' o' cord
+ * @author xf1op
+ * @version v2.1.3.7
+ * @description Custom Theme And Random Stuff
+*/
+
+:root {
+  --server-size: var(--HSL-size, 35px);
+  --server-spacing: var(--HSL-server-spacing, var(--HSL-spacing, 10px));
+  --server-container: calc(var(--server-size) + 20px);
+  --server-direction: var(--HSL-server-direction, column);
+  --server-alignment: var(--HSL-server-alignment, flex-start);
+  --channeltextarea-background: rgb(50, 0, 50);
+  --channel-text-area-placeholder: rgb(255, 255, 255);
+  --background-modifier-selected: rgb(50, 0, 50);
+  --background-modifier-hover: rgb(35, 0, 35);
+  --background-modifier-active: rgb(50, 0, 50);
+  --background-mentioned: rgb(50, 0, 50);
+  --background-mentioned-hover: rgb(35, 0, 35);
+  --background-tertiary: rgb(35, 0, 35);
+  --background-message-hover: rgb(35, 0, 35);
+}
+.profilePanel_b433b4 {
+  width: 210px;
+}
+.listItem_c96c45 {
+  scale: 75%;
+  justify-content: left;
+  margin: 0 0 -6px;
+}
+.userPanelOuter_c69a7b.userProfileOuterUnthemed_c69a7b.theme-dark.container_ecc60d {
+  width: 210px;
+}
+.overlayBackground_c69a7b {
+  opacity: 90%;
+  border-radius: 0;
+  margin: 0;
+  padding: 0 5px 5px;
+}
+.pill_a5ad63.wrapper_fd07a3 {
+  left: -12px;
+  scale: 80%;
+}
+.pill_f9623d.wrapper_fd07a3 {
+  left: -12px;
+  scale: 80%;
+}
+.wrapper_fea3ef.guilds_a4d4d9 {
+  width: 50px;
+}
+[class*="withTagAsButton"] {
+  min-width: 82px !important;
+}
+.sidebar_a4d4d9 {
+  width: 226px;
+}
+.privateChannels_f0963d {
+  flex-direction: column-reverse;
+}
+.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 {
+  display: block;
+}
+.statusBubbleOuter_d0a252 {
+  max-width: 96px;
+}
+.statusBubbleWithTextPadding_d0a252 {
+  padding: 5px 5px;
+}
+.content_d0a252.clamp_d0a252.singleLineAlign_d0a252 {
+  display: contents;
+}
+.userPanelOuter_c69a7b.userProfileOuterThemed_c69a7b.theme-dark.custom-theme-background.custom-profile-theme.container_ecc60d {
+  width: 210px;
+}
