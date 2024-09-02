@@ -21,12 +21,13 @@
   --background-tertiary: rgb(35, 0, 35);
   --background-message-hover: rgb(35, 0, 35);
   --background-primary: black;
-  --background-primary-alt: black;
   --background-secondary: black;
   --background-secondary-alt: black;
   --primary-630: black;
   --primary-700: black;
   --primary-660: black;
+  --primary-600: black;
+  --primary-600-hal: black;
 }
 .profilePanel_b433b4 {
   width: 210px;
