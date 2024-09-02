@@ -1,8 +1,8 @@
 /**
- * @name Flop' o' cord
+ * @name Flop' o' purpcord
  * @author xf1op
- * @version v2.1.3.7
- * @description Custom Theme And Random Stuff
+ * @version yes
+ * @description Custom Theme And Random Stuff :3
 */
 
 :root {
@@ -20,6 +20,10 @@
   --background-mentioned-hover: rgb(35, 0, 35);
   --background-tertiary: rgb(35, 0, 35);
   --background-message-hover: rgb(35, 0, 35);
+  --background-primary: black;
+  --background-primary-alt: black;
+  --background-secondary: black;
+  --background-secondary-alt: black;
 }
 .profilePanel_b433b4 {
   width: 210px;
