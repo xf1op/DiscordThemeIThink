@@ -127,3 +127,7 @@
   left: 140px;
   scale: 95%;
 }
+* {
+   animation: 0 !important;
+  transition: 0 !important;
+}
