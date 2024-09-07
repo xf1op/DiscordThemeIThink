@@ -199,3 +199,6 @@
 .maxBioHeight_abaf7d {
   max-height: fit-content;
 }
+.statusBubbleOuter_d0a252.panel_d0a252 {
+  display: none;
+}
