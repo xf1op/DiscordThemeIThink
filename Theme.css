@@ -28,6 +28,13 @@
   --primary-660: black;
   --primary-600: black;
   --primary-600-hal: black;
+  --radius-xs: 5px;
+  --radius-sm: 5px;
+  --radius-md: 5px;
+  --radius-lg: 5px;
+  --radius-xl: 5px;
+  --radius-xs: 5px;
+  --radius-xxl: 5px;
 }
 .profilePanel_b433b4 {
   width: 210px;
@@ -129,5 +136,66 @@
 }
 * {
    animation: 0 !important;
-  transition: 0 !important;
+  transition: 0ms !important;
+}
+.tags_c32acf.fullSize_c32acf.pronouns_c32acf {
+  justify-content: center;
+}
+.tags_c32acf.biteSize_c32acf.pronouns_c32acf {
+  justify-content: center;
+}
+.biteSizeInnerThemed_c69a7b {
+  gap: 0;
+}
+.userProfileModalInner_c69a7b.userProfileInner_c69a7b.fullSizeInnerThemed_c69a7b {
+  --profile-gradient-overlay-color: hsla(0,0%,0%,0.0);
+}
+.mask_d5fdb1 {
+  opacity: 0;
+}
+.container_c32acf {
+  background: rgb(var(--bg-overlay-color)/var(--bg-overlay-opacity-5));
+  border-radius: var(--radius-xs);
+}
+.mutuals_fc9b46 {
+  background: rgb(var(--bg-overlay-color)/var(--bg-overlay-opacity-5));
+  border-radius: var(--radius-xs);
+}
+.descriptionClamp_abaf7d {
+  background: rgb(var(--bg-overlay-color)/var(--bg-overlay-opacity-5));
+  border-radius: var(--radius-xs);
+}
+.custom-profile-theme .inner_c59af2 {
+  background: rgb(var(--bg-overlay-color)/var(--bg-overlay-opacity-5));
+  border-radius: var(--radius-xs);
+}
+.viewFullBio_abaf7d.button_dd4f85.lookBlank_dd4f85.viewFullBioColor_abaf7d.grow_dd4f85 {
+  background: rgb(var(--bg-overlay-color)/var(--bg-overlay-opacity-5));
+  border-radius: var(--radius-xs);
+}
+.viewFullBioColor_abaf7d {
+  width: 100%;
+}
+.avatar_f94206.fullSize_f94206 {
+  left: 16px;
+  top: -72px;
+}
+.visibleContainer_d0a252.biteSize_d0a252 {
+  top: calc(-16px + var(--custom-user-banner-height-bite-size));
+  left: 98px;
+}
+.statusBubbleOuter_d0a252 {
+  min-width: 64px;
+}
+.theme-dark .statusBubbleOuter_d0a252:before {
+  display: none;
+}
+.theme-dark .statusBubbleOuter_d0a252:after {
+  display: none;
+}
+.custom-profile-theme .biteSizeInnerThemed_c69a7b {
+  background: none;
+}
+.maxBioHeight_abaf7d {
+  max-height: fit-content;
 }
