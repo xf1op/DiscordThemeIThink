@@ -73,7 +73,7 @@
 .privateChannels_f0963d {
   flex-direction: column-reverse;
 }
-.scroller_c47fa9.thin_eed6a8.scrollerBase_eed6a8.fade_eed6a8 {
+.scroller_c47fa9.thin_eed6a8.scrollerBase_c49869.fade_eed6a8 {
   display: block;
 }
 .statusBubbleOuter_d0a252 {
@@ -82,7 +82,7 @@
 .statusBubbleWithTextPadding_d0a252 {
   padding: 5px 5px;
 }
-.tags_c32acf.panel_c32acf {
+.tags_c32acf.panel_c69a7b {
   justify-content: center;
 }
 .content_d0a252.clamp_d0a252.singleLineAlign_d0a252 {
@@ -103,7 +103,7 @@
 .usernameRow_c32acf {
   justify-content: center;
 }
-.tags_c32acf.panel_c32acf.pronouns_c32acf {
+.tags_c32acf.panel_c69a7b.pronouns_c32acf {
   justify-content: center;
 }
 .lineClamp2Plus_a595eb {
@@ -112,7 +112,7 @@
 .text-sm\/normal_dc00ef {
   line-height: 1;
 }
-.avatar_f94206.panel_f94206 {
+.avatar_f94206.panel_c69a7b {
   left: 31.5%;
   top: 65px;
 }
@@ -122,7 +122,7 @@
 .userPanelInner_c69a7b.userProfileInner_c69a7b.userPanelInnerThemed_c69a7b {
   background: none;
 }
-.wrapper_cb78f1.panel_cb78f1 {
+.wrapper_cb78f1.panel_c69a7b {
   gap: 3px;
   justify-content: center;
   right: 25%
@@ -133,7 +133,7 @@
 .nicknameIcons_c32acf {
   display: none;
 }
-.visibleContainer_d0a252.panel_d0a252 {
+.visibleContainer_d0a252.panel_c69a7b {
   left: 140px;
   scale: 95%;
 }
@@ -199,6 +199,6 @@
 .custom-profile-theme .biteSizeInnerThemed_c69a7b {
   background: none;
 }
-.statusBubbleOuter_d0a252.panel_d0a252 {
+.statusBubbleOuter_d0a252.panel_c69a7b {
   display: none;
 }
