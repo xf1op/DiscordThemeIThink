@@ -109,9 +109,12 @@
 .text-sm\/normal_dc00ef {
   line-height: 1;
 }
-.avatar_c32acf.panel_c32acf {
+.avatar_f94206.panel_f94206 {
   left: 31.5%;
   top: 65px;
+}
+.userPanelInner_c69a7b.userProfileInner_c69a7b.userPanelInnerThemed_c69a7b {
+  background: none;
 }
 .header_a823cd {
   margin-bottom: 0;
@@ -119,7 +122,7 @@
 .userPanelInner_c69a7b.userProfileInner_c69a7b.userPanelInnerThemed_c69a7b {
   background: none;
 }
-.wrapper_c32acf.panel_c32acf {
+.wrapper_cb78f1.panel_cb78f1 {
   gap: 3px;
   justify-content: center;
   right: 25%
