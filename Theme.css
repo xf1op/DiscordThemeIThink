@@ -70,7 +70,7 @@
   scale: 0%;
 }
 .lineClamp2Plus_a595eb {
-  display: inline-block;
+  display: block;
 }
 .pill_f9623d.wrapper_c4cd66 {
   left: -12px;
@@ -127,9 +127,11 @@
 }
 .text-sm\/normal_dc00ef {
   line-height: 1;
+  padding: 0 4px 0 4px;
+  text-align: center;
 }
 .overlay_a972fe {
-  padding: 4px;
+  padding: 0;
 }
 .avatar_f94206.panel_f94206 {
   left: 31.5%;
@@ -219,12 +221,14 @@
 .statusBubbleOuter_d0a252.panel_c69a7b {
   display: none;
 }
-.overlay_c69a7b.panel_c69a7b.card_ae1fa2.card_ae1fa2.activity_a972fe [class="header_ae1fa2"] {
+.header_ae1fa2 {
   justify-content: center;
 }
-.overlay_c69a7b.panel_c69a7b.card_ae1fa2.card_ae1fa2.activity_a972fe [class="header_ae1fa2"] [class="text-xs/semibold_dc00ef defaultColor_e42ec6 headerText_ae1fa2"] {
-  font-style: italic;
+.header_ae1fa2 [class="text-xs/semibold_dc00ef defaultColor_e42ec6 headerText_ae1fa2"] {
   font-size: 14px;
+  font-style: italic;
+  line-height: 1;
+  font-weight: bold;
 }
 .overlay_c69a7b.panel_c69a7b.card_ae1fa2.card_ae1fa2.activity_a972fe [class="body_ae1fa2"] {
   padding: 0 6px 0 6px;
@@ -237,4 +241,14 @@
 }
 .card_ae1fa2 {
   gap: 3px;
+}
+.headings_ba4d80 [class="text-xs/semibold_dc00ef defaultColor_e42ec6"] {
+  font-size: 14px;
+  font-style: italic;
+  line-height: 1;
+  font-weight: bold;
+  text-align: center;
+}
+.section_ba4d80 {
+  gap: 0;
 }
