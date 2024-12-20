@@ -219,3 +219,22 @@
 .statusBubbleOuter_d0a252.panel_c69a7b {
   display: none;
 }
+.overlay_c69a7b.panel_c69a7b.card_ae1fa2.card_ae1fa2.activity_a972fe [class="header_ae1fa2"] {
+  justify-content: center;
+}
+.overlay_c69a7b.panel_c69a7b.card_ae1fa2.card_ae1fa2.activity_a972fe [class="header_ae1fa2"] [class="text-xs/semibold_dc00ef defaultColor_e42ec6 headerText_ae1fa2"] {
+  font-style: italic;
+  font-size: 14px;
+}
+.overlay_c69a7b.panel_c69a7b.card_ae1fa2.card_ae1fa2.activity_a972fe [class="body_ae1fa2"] {
+  padding: 0 6px 0 6px;
+}
+.overlay_c69a7b.panel_c69a7b.card_ae1fa2.card_ae1fa2.activity_a972fe [class="actions_ae1fa2"] {
+  padding: 0 6px 3px 6px;
+}
+.activity_a972fe {
+  padding: 0;
+}
+.card_ae1fa2 {
+  gap: 3px;
+}
