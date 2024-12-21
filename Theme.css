@@ -235,6 +235,7 @@
 }
 .overlay_c69a7b.panel_c69a7b.card_ae1fa2.card_ae1fa2.activity_a972fe [class="actions_ae1fa2"] {
   padding: 0 6px 3px 6px;
+
 }
 .activity_a972fe {
   padding: 0;
@@ -251,4 +252,13 @@
 }
 .section_ba4d80 {
   gap: 0;
+}
+.details_ae1fa2 {
+  margin: -2px;
+  background:rgb(75,30,30);
+  gap: 12px;
+  text-align: center;
+  font-style: italic;
+  line-height: 1;
+  font-weight: bolder;
 }
