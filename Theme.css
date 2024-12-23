@@ -254,11 +254,36 @@
   gap: 0;
 }
 .details_ae1fa2 {
-  margin: -2px;
+  width: 80%;
+  margin: 0;
   background:rgb(75,30,30);
-  gap: 12px;
-  text-align: center;
+  gap: initial;
+  text-align: -webkit-center;
   font-style: italic;
   line-height: 1;
   font-weight: bolder;
+  border-radius: 6px;
+}
+.badgesContainer_d60c6d.badges_ae1fa2 {
+  justify-content: center;
+}
+.avatars_ccc074 {
+  justify-content: center;
+}
+.details_ae1fa2 [class="container_b5cd55"] {
+  display: inherit;
+  align-self: center;
+}
+.content_ae1fa2.fullSize_ae1fa2 {
+  align-items: center;
+  gap: 15px;
+}
+.overlay_c69a7b.fullSize_c69a7b.card_ae1fa2.card_ae1fa2 {
+  align-content: center;
+}
+.card_ae1fa2 {
+  padding: 4px;
+}
+.imagePosition_fa854f {
+  padding: 0 0 0 15px;
 }
