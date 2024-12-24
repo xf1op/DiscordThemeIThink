@@ -6,6 +6,11 @@
 */
 
 :root {
+  --background_v: var(--background_s, var(--background));
+  --backgroundposition_v: var(--backgroundposition_s, var(--backgroundposition));
+  --backgroundsize_v: var(--backgroundsize_s, var(--backgroundsize));
+  --backgroundblur_v: calc(1px * var(--backgroundblur_s, var(--backgroundblur)));
+  --background: url('https://static1.e621.net/data/43/00/430083f1b8ded31b47764ce7924f7595.png');
   --server-size: var(--HSL-size, 35px);
   --server-spacing: var(--HSL-server-spacing, var(--HSL-spacing, 10px));
   --server-container: calc(var(--server-size) + 20px);
@@ -292,4 +297,10 @@
 }
 .visualMediaItemContainer_cda674 {
   border-radius: 0;
+}
+.scrollerInner_e2e187 {
+  background-image: url('https://static1.e621.net/data/43/00/430083f1b8ded31b47764ce7924f7595.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 2.3%;
 }
