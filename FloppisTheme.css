@@ -1,0 +1,49 @@
+/**
+ * @name Fwoppi's Theme
+ * @author xf1op
+ * @description Meow!
+ * @version 1.2.3
+ */
+
+:root {
+  --primary-100: #ffffff;
+  --primary-130: #ffffff;
+  --primary-160: #ffffff;
+  --primary-200: #ffffff;
+  --primary-230: #ffffff;
+  --primary-260: #ffffff;
+  --primary-300: #ffffff;
+  --primary-330: #ffffff;
+  --primary-345: #ffffff;
+  --primary-360: #ffffff90;
+  --primary-400: #ffffff;
+  --primary-430: #ffffff;
+  --primary-460: #ffffff;
+  --primary-500: #002070;/* buttons */
+  --primary-530: #002070;
+  --primary-560: #002055;/* inputbar */
+  --primary-600: #002065;/* background */
+  --primary-630: #002050;/* friend list + scroll */
+  --primary-645: #002050;
+  --primary-660: #002045;/* side profile + small profile bar under friendslist */
+  --primary-700: #002050;/* servers + topbar */
+  --primary-730: #002070;
+  --primary-760: #002070;
+  --primary-800: #002050;/* profile color */
+  --primary-830: #002050;
+  --primary-860: #002070;
+  --primary-900: #002070;
+}
+*, ::before, ::after {
+  animation: none !important;
+  transition: none !important;
+}
+.embedMedia_b0068a, .oneByOneGridSingle_cda674, .imageWrapper_d4597d, .embedVideo_b0068a video, .visualMediaItemContainer_cda674 {
+  border-radius: 0;
+}
+.outer_c69a7b.panel_c69a7b {
+  width: 280px;
+}
+.banner_d5fdb1, .banner_d5fdb1.banner_a823cd {
+  background-image: url("https://media1.tenor.com/m/aZZVtJg8rZYAAAAd");
+}
