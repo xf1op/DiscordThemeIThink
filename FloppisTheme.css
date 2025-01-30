@@ -38,12 +38,12 @@
   animation: none !important;
   transition: none !important;
 }
-.embedMedia_b0068a, .oneByOneGridSingle_cda674, .imageWrapper_d4597d, .embedVideo_b0068a video, .visualMediaItemContainer_cda674 {
+.embedMedia__623de, .oneByOneGridSingle_f4758a, .imageWrapper_af017a, .embedVideo__623de video, .visualMediaItemContainer_f4758a {
   border-radius: 0;
 }
-.outer_c69a7b.panel_c69a7b {
+.outer_c0bea0.panel_c0bea0 {
   width: 280px;
 }
-.banner_d5fdb1, .banner_d5fdb1.banner_a823cd {
+.banner__68edb, .banner__68edb.banner__537ec {
   background-image: url("https://raw.githubusercontent.com/xf1op/DiscordThemeIThink/refs/heads/main/puppi.png");
 }
