@@ -7,7 +7,7 @@
 
 * {
   animation: 0 !important;
-  transition: 0 !important;
+  transition: 0ms !important;
 }
 
 :where(.outer_c0bea0).panel_c0bea0 {
