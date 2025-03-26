@@ -19,6 +19,6 @@
 .banner__68edb, .banner__68edb.banner__537ec {
     background-image: url(https://raw.githubusercontent.com/xf1op/DiscordThemeIThink/refs/heads/main/puppi.png)
 }
-element.style {
+body {
     --custom-guild-sidebar-width: 290px;
 }
