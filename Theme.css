@@ -13,7 +13,7 @@
 :where(.outer_c0bea0).panel_c0bea0 {
   width: 280px;
 }
-[class="text-sm/normal_cf4812"] {
+:where([class="text-sm/normal_cf4812"]) {
   display: block;
 }
 .banner__68edb, .banner__68edb.banner__537ec {
