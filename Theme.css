@@ -6,16 +6,16 @@
 */
 
 * {
-  animation: 0 !important;
-  transition: 0ms !important;
+    animation: 0 !important;
+    transition: 0ms !important;
 }
-
+  
 :where(.outer_c0bea0).panel_c0bea0 {
-  width: 280px;
+    width: 280px;
 }
-:where([class="text-sm/normal_cf4812"]) {
-  display: block;
+.text-sm\/normal_cf4812 {
+    display: block;
 }
 .banner__68edb, .banner__68edb.banner__537ec {
-  background-image: url(https://raw.githubusercontent.com/xf1op/DiscordThemeIThink/refs/heads/main/puppi.png)
+    background-image: url(https://raw.githubusercontent.com/xf1op/DiscordThemeIThink/refs/heads/main/puppi.png)
 }
