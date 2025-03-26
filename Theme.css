@@ -10,6 +10,6 @@
   transition: 0 !important;
 }
 
-.outer_c0bea0 {
-  width: 280px;s
+:where(.outer_c0bea0).panel_c0bea0 {
+  width: 280px;
 }
