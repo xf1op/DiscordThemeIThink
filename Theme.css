@@ -9,9 +9,6 @@
     animation: 0 !important;
     transition: 0ms !important;
 }
-:body {
-    --custom-guild-sidebar-width: 290px;
-}
 :where(.outer_c0bea0).panel_c0bea0 {
     width: 280px;
 }
@@ -21,4 +18,7 @@
 }
 .banner__68edb, .banner__68edb.banner__537ec {
     background-image: url(https://raw.githubusercontent.com/xf1op/DiscordThemeIThink/refs/heads/main/puppi.png)
+}
+element.style {
+    --custom-guild-sidebar-width: 290px;
 }
